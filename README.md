@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio de projeto do Bootcamp TQI 2022 
 
 
 ## Links Úteis
